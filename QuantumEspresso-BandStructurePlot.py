@@ -83,12 +83,9 @@ else:
 #Plot bands
 
 #High symmetry points. Read from bondx.out  
-labelcoord = [0,	0.5	,	1.0006,	1.2448,	1.9916	,2.5464	,	3.1028,	3.8103,	4.3103,	4.8109,	5.0551 ,5.8019,	6.3567	,6.9131	,7.6205]
+#labelcoord = [0,	0.5	,	1.0006,	1.2448,	1.9916	,2.5464	,	3.1028,	3.8103,	4.3103,	4.8109,	5.0551 ,5.8019,	6.3567	,6.9131	,7.6205]
 #High symmetry points name. Read from materials cloud: https://www.materialscloud.org/work/tools/seekpath
-labelname = [r'$\Gamma$',r'$X|Y$',r'$\Gamma$',r'$Z|R2$',r'$\Gamma$',r'$T2|U2$',r'$\Gamma$',r'$V2|\Gamma$',r'$X|Y$',r'$\Gamma$',r'$Z|R2$',r'$\Gamma$',r'$T2|U2$',r'$\Gamma$',r'$V2$']
-
-#Y Gamma Z
-labelname = [r'$\Gamma$',r'$Y$',r'$\Gamma$',r'$Z$',r'$\Gamma$',r'$T2|U2$',r'$\Gamma$',r'$V2|\Gamma$',r'$X|Y$',r'$\Gamma$',r'$Z|R2$',r'$\Gamma$',r'$T2|U2$',r'$\Gamma$',r'$V2$']
+#labelname = [r'$\Gamma$',r'$X|Y$',r'$\Gamma$',r'$Z|R2$',r'$\Gamma$',r'$T2|U2$',r'$\Gamma$',r'$V2|\Gamma$',r'$X|Y$',r'$\Gamma$',r'$Z|R2$',r'$\Gamma$',r'$T2|U2$',r'$\Gamma$',r'$V2$']
 
 
 kp = []
